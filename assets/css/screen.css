@@ -1,10 +1,10 @@
 body {
 	display: flex;
-	justify-content: center;
+	justify-content: space-around;
 }
 
 canvas {
 	background-color: grey;
 	border: 0.125rem solid black;
-	margin-top: 8rem;
+	margin-top: 10rem;
 }
