@@ -13,7 +13,7 @@ function init(){
 	showCube();
 }
 
-function showCube(){ //see drawing for clarification (cube.png);
+function showCube(){
 	const canvas = document.querySelector("#cube");
 	const ctx = canvas.getContext('2d');
 
